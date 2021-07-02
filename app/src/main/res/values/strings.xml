@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinEx</string>
+    <string-array name="publish">
+        <item>NXB GD</item>
+        <item>Kim Dong</item>
+        <item>Thanh Nien</item>
+        <item>Thoi Dai</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>Information Technology</item>
+        <item>Bio Tech</item>
+        <item>Financial</item>
+        <item>Artificial Intelligent </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
